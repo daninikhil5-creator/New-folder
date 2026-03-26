@@ -1,2 +1,2 @@
-this is a guess the number game.<br>
+this is a "guess the number game".<br>
 author : nikhil dani
